@@ -1,0 +1,52 @@
+header {
+background-color: rgb(99, 34, 34);
+color: darkgoldenrod;
+padding: 1em;
+ font-family: sans-serif; 
+ text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.7rem 0.7rem;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: red;
+}
+ footer {
+background-color: red;
+color: white;
+padding: 0.7rem;
+text-align: center;
+} 
+p{
+    background-image: url("immg.jpg");
+}
+
+
+/* h1 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+} */
+
+
+/* #f {
+    border: 5px dashed blue;
+} */
+
+.box {
+    color: red;
+}  
